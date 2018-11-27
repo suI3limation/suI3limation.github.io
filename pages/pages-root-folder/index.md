@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  text: Yo Dawg, hit me up with updates and new features ›
   style: alert
 permalink: /index.html
 #
