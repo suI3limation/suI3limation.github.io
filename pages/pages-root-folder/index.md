@@ -11,7 +11,7 @@ widget1:
   title: "Where's your head at?"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'We don't know'
+  text: "We don't know"
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
